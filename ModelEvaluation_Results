@@ -1,0 +1,11 @@
+PRECISION:
+- Positive - 100%
+- Negative - 98%
+
+RECALL:
+- Positive - 98%
+- Negative - 100%
+
+F1 Score: 99%
+
+Test Accuracy : 99%
