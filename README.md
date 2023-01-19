@@ -3,7 +3,7 @@ Repository to host Team Avinya's submission for the L&amp;T EduTech hackathon, P
 
 ## The IPYNB file has been added to directly view the Kaggle notebook.
 
-## Pretrained model downloadable link has been shared.
+## Developed model downloadable link has been shared.
 
 ## Model evaluation has been separately mentioned in the file "ModelEvaluation_Results". The notebook consists of tabulated results and confusion matrix as well.
 
